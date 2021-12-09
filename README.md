@@ -1,1 +1,1 @@
-# Shivam648-College-Attendance-Management-System
+# College-Attendance-Management-System
